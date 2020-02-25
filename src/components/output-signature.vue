@@ -79,29 +79,29 @@
 
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
-                    <a href="https://www.facebook.com/MasterServiceTeam/" target="_blank" style=
+                    <a href="https://www.facebook.com/klausroofingsystems/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/facebook.png" /></a>
                     
-                    <a href="https://www.linkedin.com/company/masterservicestn" target="_blank" style=
+                    <a href="https://www.linkedin.com/company/klausroofingsystems/" target="_blank" style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/linkedin.png" /></a>
                     
-                    <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw" target="_blank"
+                    <!-- <a href="https://www.youtube.com/channel/UCop6hiVtGvTDem0UqPppINw" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
                     "border: none; width: 25px; max-width: 25px !important; height: 25px; max-height: 25px !important;"
                     src=
-                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/youtube.png" /></a>
+                    "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/youtube.png" /></a> -->
 
-                    <a href="https://www.instagram.com/masterserviceteam/" target="_blank"
+                    <a href="https://www.instagram.com/klausroofingsystems/" target="_blank"
                     style=
                     "border-width:0px; border:0px; text-decoration: none;"><img width="25"
                     height="25" style=
