@@ -109,7 +109,7 @@
                     src=
                     "https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1874/instagram.png" /></a>
                   </td>
-                </tr>
+                </tr> 
               </table>
             </td>
           </tr>

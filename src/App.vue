@@ -54,7 +54,7 @@
                           <i class="fa fa-times"></i>
                         </span>
                       </a>
-                    </p>
+                    </p> 
                 </div>
             <outputSignature :fullName.sync="fullName" :title.sync="title" :mobilePhone.sync="mobilePhone" :phone.sync="phone" :email.sync="email" :mobilePhoneSwitch.sync="mobilePhoneSwitch" v-on:changeTitle="updateTitle($event)"/>
            
