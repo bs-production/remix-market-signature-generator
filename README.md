@@ -1,4 +1,4 @@
-# Klaus Roofing Systems Email Signature Generator for Microsoft Outlook
+# Brown Roofing Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
