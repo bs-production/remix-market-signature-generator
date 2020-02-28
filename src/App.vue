@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2721/klaus-logo.svg" alt="" style="width:250px">
+            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1253/logo-brownroofing-2x.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Klaus Roofing Systems
+                    &copy;2020 Brown Roofing
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #E91D24;
+  border-top: 1px dashed #ec232b;
 }
 .gif-box ul {
     text-align:left;
@@ -209,18 +209,18 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #E91D24;
+  background-color: #ec232b;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #b90006;
+  background-color: #ec232b;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #b90006;
+  border-color: #ec232b;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -228,7 +228,7 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #ff0000;
+  color: #666;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
   font-size: 26px;
@@ -237,7 +237,7 @@ input:disabled {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #b90006;
+  border-color: #ec232b;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,
