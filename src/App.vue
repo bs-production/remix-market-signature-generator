@@ -11,7 +11,7 @@
             <p>Signature Generator</p> 
         </h1>
         </div>
-      </div>
+      </div> 
     </section>
 <!----------------- Header Ends ---------------->
     <div class="container main">  
