@@ -5,7 +5,7 @@
       <div class="hero-body">
         <div class="container">
           <div class="th-logo has-text-centered">
-            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/1253/logo-brownroofing-2x.png" alt="" style="width:250px">
+            <img src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-sign-gen-logo.png" alt="" style="width:250px">
           </div>
         <h1 class="sub-text title has-text-centered">
             <p>Signature Generator</p> 
@@ -62,7 +62,7 @@
 
           <div class="gif-box level-item has-text-centered">
             <ul>
-              <li>1. Place cursor at the top-left corner of Master Services logo and click & drag to bottom-right corner of the disclaimer</li>
+              <li>1. Place cursor at the top-left corner of company logo and click & drag to bottom-right corner of the disclaimer</li>
               <li>2. Paste into Outlook signatures in preferences panel</li>
               <li>3. Adjust logo size if needed</li>
             </ul>
@@ -76,7 +76,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    &copy;2020 Brown Roofing
+                    &copy; 2020 The Junkluggers
                 </p>
             </div>
         </div>
@@ -159,7 +159,7 @@ li {
   margin-left: 1px;
   background-color: #efefef;
   padding: 20px;
-  border-top: 1px dashed #ec232b;
+  border-top: 1px dashed #3ad532;
 }
 .gif-box ul {
     text-align:left;
@@ -209,18 +209,18 @@ input:disabled {
   margin-top: 10px;
 }
 .button.is-success, .button.is-success[disabled] {
-  background-color: #ec232b;
+  background-color: #3ad532;
   border-color: transparent;
   color: #fff;
 }
 .button.is-success.is-hovered,
 .button.is-success:hover {
-  background-color: #ec232b;
+  background-color: #2ee024;
   border-color: transparent;
   color: #fff;
 }
 .input:focus {
-  border-color: #ec232b;
+  border-color: #3ad532;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .sub-text {
@@ -228,16 +228,16 @@ input:disabled {
   margin-top: 10px;
 }
 .sub-text p {
-  color: #666;
+  color: #000;
   font-family: "Barlow Condensed", sans-serif;
   font-weight: 700;
-  font-size: 26px;
+  font-size: 24px;
 }
 .hero-body {
   padding: 1.5rem 1.5rem;
 }
 .input:focus {
-  border-color: #ec232b;
+  border-color: #3ad532;
   box-shadow: 0 0 0 0.125em rgba(119, 187, 70, 0.25);
 }
 .fade-enter-active,

@@ -1,4 +1,4 @@
-# Brown Roofing Email Signature Generator for Microsoft Outlook
+# Junkluggers Corp Email Signature Generator for Microsoft Outlook
 
 > A Vue.js ^2.5.2 project
 
