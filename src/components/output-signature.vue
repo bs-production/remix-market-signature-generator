@@ -6,9 +6,9 @@
         <tr>
             <td valign="top" style="padding-top: 0; padding-bottom: 0; padding-left: 0; padding-right: 7px; border-top: 0; border-bottom: 0: border-left: 0;">
               <a href="https://www.junkluggers.com/">
-                <img v-show="mobilePhoneSwitch" width="220" height="139" style="width: 220px; max-width: 220px !important; height: 139px; max-height: 139px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos.png" name="preview-image-url" />
+                <img v-show="mobilePhoneSwitch" width="280" height="177" style="width: 280px; max-width: 280px !important; height: 177px; max-height: 177px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos-updated.png" name="preview-image-url" />
         
-                <img v-show="!mobilePhoneSwitch" width="190" height="121" style="width: 190px; max-width: 190px !important; height: 121px; max-height: 121px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos.png" name="preview-image-url" /> 
+                <img v-show="!mobilePhoneSwitch" width="250" height="158" style="width: 250px; max-width: 250px !important; height: 158px; max-height: 158px !important; margin-top: 5px;" id="preview-image-url" src="https://dc69b531ebf7a086ce97-290115cc0d6de62a29c33db202ae565c.ssl.cf1.rackcdn.com/2714/junkluggers-output-logos-updated.png" name="preview-image-url" /> 
               </a>
             </td> 
             
@@ -35,7 +35,7 @@
                 <tr>
                   <td width="20" valign="top" style=
                   "vertical-align: top; width: 20px; color: #3ad532; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  Office:
+                  p:
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
@@ -45,7 +45,7 @@
                 <tr v-show="mobilePhoneSwitch">
                 <td width="20" valign="top" style=
                   "vertical-align: top; width: 20px; color: #3ad532; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  Mobile:
+                  m:
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
@@ -55,7 +55,7 @@
                 <tr>
                     <td width="20" valign="top" style=
                     "vertical-align: top; width: 20px; color: #3ad532; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                    Email:
+                    e:
                     </td>
                     <td valign="top" style=
                     "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
@@ -66,7 +66,7 @@
                 <tr>
                   <td width="20" valign="top" style=
                   "vertical-align: top; width: 20px; color: #3ad532; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                  Web:
+                  w:
                   </td>
                   <td valign="top" style=
                   "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
@@ -76,7 +76,17 @@
                     &nbsp;&nbsp;
                   </td>
                 </tr>
-
+                <tr>
+                    <td width="20" valign="top" style=
+                    "vertical-align: top; width: 20px; color: #3ad532; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    a:
+                    </td>
+                    <td valign="top" style=
+                    "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
+                    <a :href="`mailto:${this.email}`" style="color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">{{address}}</a>
+                      &nbsp;&nbsp;
+                    </td>
+                  </tr>
                 <tr>
                   <td colspan="2" style="padding-top: 5px;">
                     <a href="https://www.facebook.com/TheJunkluggers/" target="_blank" style=
@@ -147,6 +157,10 @@ export default {
       required: true
     },
     email: {
+      type: String,
+      required: true
+    },
+    address: {
       type: String,
       required: true
     },

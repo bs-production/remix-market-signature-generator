@@ -49,7 +49,14 @@
                       <i class="fa fa-envelope"></i>
                     </span>
           </div>
-          
+        </div>
+          <div class="field">
+          <div class="control has-icons-left has-icons-right">
+            <input class="input" onblur="if (this.value == '') {this.value = 'Address';}" onfocus="if (this.value == 'Address') {this.value = '';}" :value="address" @input="$emit('update:address', $event.target.value)" type="text">
+                    <span class="icon is-small is-left">
+                      <i class="fa fa-envelope"></i>
+                    </span>
+          </div>
         </div>
         </form>
     </section>
@@ -78,6 +85,10 @@ export default {
       required: true
     },
     email: {
+      type: String,
+      required: true
+    },
+    address: {
       type: String,
       required: true
     },
