@@ -54,7 +54,7 @@
           <div class="control has-icons-left has-icons-right">
             <input class="input" onblur="if (this.value == '') {this.value = 'Address';}" onfocus="if (this.value == 'Address') {this.value = '';}" :value="address" @input="$emit('update:address', $event.target.value)" type="text">
                     <span class="icon is-small is-left">
-                      <i class="fa fa-envelope"></i>
+                      <i class="fa fa-map-marker"></i>
                     </span>
           </div>
         </div>
