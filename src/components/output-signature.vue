@@ -83,7 +83,7 @@
                     </td>
                     <td valign="top" style=
                     "vertical-align: top; color: #333333; font-size: 14px; font-family: Arial, Helvetica, sans-serif;">
-                    <a :href="`mailto:${this.email}`" style="color: #333333; text-decoration: none; font-weight: normal; font-size: 14px;">{{address}}</a>
+                    {{address}}
                       &nbsp;&nbsp;
                     </td>
                   </tr>
